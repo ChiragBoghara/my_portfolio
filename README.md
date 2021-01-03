@@ -1,6 +1,9 @@
 # my_portfolio
 
-A new Flutter application.
+A new Flutter portfolio application.
+
+
+![My Portfolio App](https://github.com/ChiragBoghara/my_portfolio/blob/master/images/my_portfolio.gif?raw=true)
 
 ## Getting Started
 
